@@ -3,8 +3,6 @@
 
 Allows you to bootstrap a Terraform project on AWS using Github Actions. The purpose of the project is to make a simple sandbox for experimenting with Terraform resources using a CI pipeline.
 
-For the companion article, check out: https://www.thedevcoach.co.uk/setup-terraform-aws-github-actions/
-
 ## Setup Steps
 
 Pre-requisites: 
@@ -30,6 +28,3 @@ Pre-requisites:
 10. `git add .` and `git commit -m "First commit"` to commit any changes
 11. `git push` to push to github
 
-## Having Problems?
-
-[Raise an issue](https://github.com/loujaybee/terraform-aws-github-action-bootstrap/issues)
