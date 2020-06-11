@@ -147,7 +147,7 @@ resource "aws_instance" "cr_instance" {
   ami           = data.aws_ami.linux.id
 
   tags = {
-    Name = "cloudreachwada"
+    Name = "cloudreachwadaawda"
   }
 
   vpc_security_group_ids = [aws_security_group.cr_sg.id]
